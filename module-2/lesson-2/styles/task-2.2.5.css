@@ -15,5 +15,6 @@
     padding: 30px;
     background: chartreuse;
     border: coral 1px dashed;
+    border-radius: 10px;
 }
 /* Your code goes above here */
