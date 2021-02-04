@@ -1,0 +1,34 @@
+.wrapper{
+    max-width: 200px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+img{
+    max-width: 100%;
+}
+
+figcaption{
+    background-color: honeydew;
+    border: solid 5px grey;
+    font-size: 1em;
+    display:inline-block;
+    padding: .5em 1em;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+
+}
+
+figcaption2{
+    background-color: honeydew;
+    border: solid 5px grey;
+    font-size: 1em;
+    display:inline-block;
+    padding: .5em 1em;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+
+}
