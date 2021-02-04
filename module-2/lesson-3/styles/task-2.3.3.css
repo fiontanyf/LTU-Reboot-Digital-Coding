@@ -1,0 +1,13 @@
+a:link {
+    color: coral;
+}
+
+a:visited{
+    color: cornflowerblue;
+}
+
+a:hover {
+    color: cyan;
+    font-size: 1.5em;
+}
+
